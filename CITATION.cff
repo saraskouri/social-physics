@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Social Physics Framework"
+message: "If you use this software in your research, please cite it."
+authors:
+  - family-names: Skouri
+    given-names: Sara
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0000-0000-0000"  # Optional - remove if no ORCID
+type: software
+license: MIT
+url: "https://github.com/saraskouri/social-physics"
+repository-code: "https://github.com/saraskouri/social-physics"
+date-released: 2025-03-20
+version: 1.0.0
+keywords:
+  - "social-physics"
+  - "perceptual-distortion"
+  - "critical-thresholds"
+  - "digital-perception"
+  - "algorithmic-amplification"
+abstract: "A formal, mathematical framework for quantifying and predicting perceptual distortion in digital networks, featuring the Critical Distortion Threshold (CDT) as a measurable tipping point for social cascades."
